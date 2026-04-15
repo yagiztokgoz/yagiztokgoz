@@ -1,39 +1,42 @@
-<h1 align="center">A math engineering student at Technical University of Istanbul who has great enthautism to AI and software development.</h1>
+<h2 align="center">Yağız Tokgöz</h2>
 
-###
+<p align="center">
+Final-year aerospace engineering student @ Istanbul Technical University  
+Interested in control systems, estimation, and applied AI
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&username=yagiztokgoz" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=tokyonight&hide_border=false&username=yagiztokgoz" height="150" alt="languages graph"  />
-</div>
+---
 
-###
+### About
 
+- Working on guidance, navigation and control (GNC)
+- Focused on state estimation (UKF, nonlinear systems)
+- Interested in AI applications in engineering systems
+- Comfortable with MATLAB, Python, and C/C++
 
-###
+---
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" height="30" width="42" alt="cplusplus logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" height="30" width="42" alt="c logo"  />
-</div>
+### Tech
 
-###
+<p>
+  Python · MATLAB · C/C++ · Simulink  
+</p>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/yagiztokgoz/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/wherrismymind/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="mailto:yagiztokgoz@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-</div>
+---
 
-###
+### Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yagiztokgoz&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yagiztokgoz&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</p>
 
+---
 
-###
+### Contact
+
+<p>
+  <a href="https://www.linkedin.com/in/yagiztokgoz/">LinkedIn</a> ·
+  <a href="mailto:yagiztokgoz@gmail.com">Email</a> ·
+  <a href="https://www.instagram.com/wherrismymind/">Instagram</a>
+</p>
