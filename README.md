@@ -24,8 +24,6 @@ Interested in control systems, estimation, and applied AI
 
 ---
 
----
-
 ### Contact
 
 <p>
